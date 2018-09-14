@@ -6,7 +6,6 @@ import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 import java.nio.charset.Charset;
 
-//tag::CHECKER[]
 public final class HTTP2Checker {
     public static void main(String[] args) throws Exception {
         if (args.length == 0) {
@@ -23,4 +22,3 @@ public final class HTTP2Checker {
         }
     }
 }
-//end::CHECKER[]
