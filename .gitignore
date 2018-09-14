@@ -1,3 +1,6 @@
+http2chk-image
+
+# General Ignores
 out/
 .idea/
 *.iml
